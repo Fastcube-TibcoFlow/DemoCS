@@ -13,5 +13,6 @@
 	</parent>
 
 	<modules>
-	</modules>
+	<module>../maven.mc-DemoCS.parent</module>
+    </modules>
 </project>
